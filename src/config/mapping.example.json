@@ -1,0 +1,7 @@
+{
+    "renameMapping": {
+        "oldName": "newName",
+        "age": "person_age",
+        "location": "city"
+    }
+}
