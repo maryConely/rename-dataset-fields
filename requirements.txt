@@ -1,0 +1,1 @@
+txt# Minimal dependencies required for the project
